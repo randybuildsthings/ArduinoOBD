@@ -5,6 +5,8 @@
 * (C)2012-2014 Stanley Huang <stanleyhuangyc@gmail.com>
 *************************************************************************/
 
+#pragma once
+
 #define OBD_TIMEOUT_SHORT 2000 /* ms */
 #define OBD_TIMEOUT_LONG 7000 /* ms */
 #define OBD_SERIAL_BAUDRATE 38400
